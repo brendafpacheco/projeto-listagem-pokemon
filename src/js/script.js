@@ -15,7 +15,7 @@ function alterarTema () {
 
 
 //Código dos gêmeos
-
+/*
 const botaoAlterarTema = document.getElementById("botao-alterar-tema");
 const body = document.querySelector("body");
 const imagemBotaoTrocaDeTema = document.querySelector(".imagem-botao");
@@ -31,3 +31,4 @@ botaoAlterarTema.addEventListener("click", () => {
     imagemBotaoTrocaDeTema.setAttribute("src", "./src/imagens/moon.png");
   }
 });
+*/
